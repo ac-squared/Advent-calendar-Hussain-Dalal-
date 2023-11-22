@@ -1,1 +1,5 @@
+import time
 
+while 1=1:
+  if time.localtime()[1]=12 and time.localtime()[1]:
+    print("It's December 1st")
